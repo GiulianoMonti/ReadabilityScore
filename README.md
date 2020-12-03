@@ -3,6 +3,9 @@
 my number 7 project from the beautiful hyperskill  tried to implement a design pattern, and i think it worked, later i will change this description
 
 
+Program that does many operations with a .txt, or user input, (count syllables, polysyllables, etc)
+
+
 
 Description
 
@@ -23,6 +26,8 @@ To count the number of syllables you should use letters a, e, i, o, u, y as vowe
 1. Count the number of vowels in the word. 2. Do not count double-vowels (for example, "rain" has 2 vowels but only 1 syllable). 3. If the last letter in the word is 'e' do not count it as a vowel (for example, "side" has 1 syllable). 4. If at the end it turns out that the word contains 0 vowels, then consider this word as a 1-syllable one.
 Example
 
+
+OUTPUT
 
 
 
