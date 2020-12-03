@@ -1,6 +1,6 @@
 # ReadabilityScore
 
-7 project done by myself, tried to implement a design pattern, and i think it worked, later i will change this description
+my number 7 project from the beautiful hyperskill  tried to implement a design pattern, and i think it worked, later i will change this description
 
 
 
